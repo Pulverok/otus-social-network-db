@@ -1,0 +1,11 @@
+otus_social_network:
+  - geo:
+    - countries
+    - regions
+    - cities
+  - users:
+     - sex
+     - users
+     - friends
+  - auth:
+     - access_tokens
